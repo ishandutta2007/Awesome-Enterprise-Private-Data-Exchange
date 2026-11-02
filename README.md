@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Private-Data-Exchange/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -81,9 +81,9 @@ Commercial, cloud-hosted Enterprise Private Data Exchange platforms sorted desce
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven data exchange layers, federated data spaces, and collaboration platforms. Ranked in descending order by GitHub star count.
+Self-hosted, community-driven data exchange layers, federated data spaces, and collaboration platforms. Ranked in descending order by GitHub Stars_Count.
 
-| Project | ⭐ GitHub Stars | 🛠️ Stack & License | 💡 Key Highlights | 🎯 Best For |
+| Project | ⭐ GitHub_Stars | 🛠️ Stack & License | 💡 Key Highlights | 🎯 Best For |
 |---|---|---|---|---|
 | **[CKAN](https://github.com/ckan/ckan)** | [![Stars](https://img.shields.io/github/stars/ckan/ckan?style=social&color=white)](https://github.com/ckan/ckan/stargazers) | Python / Flask / PostgreSQL / Solr<br>*(AGPL-3.0)* | World's leading open-source data portal platform used by national governments (data.gov) and enterprises. Granular access rights, comprehensive metadata harvesting, rich API extensions, and dataset publication workflows. | Enterprise and public-sector data portals, internal catalogs, and governed open data distribution. |
 | **[Delta Sharing](https://github.com/delta-io/delta-sharing)** | [![Stars](https://img.shields.io/github/stars/delta-io/delta-sharing?style=social&color=white)](https://github.com/delta-io/delta-sharing/stargazers) | Python / Scala / Rust / Go<br>*(Apache-2.0)* | The industry's first open standard for secure, zero-copy data and AI asset sharing across organizations and clouds. Supports Apache Spark, Pandas, Databricks, Power BI, and Tableau without vendor lock-in. | Multi-cloud and cross-platform large-scale lakehouse data exchange without copying data. |
@@ -112,15 +112,15 @@ Self-hosted, community-driven data exchange layers, federated data spaces, and c
 | **Datarade** | Proprietary SaaS | Managed Cloud | B2B data monetization & vendor discovery | ~$2.1M ARR |
 | **Dawex** | Proprietary SaaS | Sovereign Cloud / SaaS | Cross-border data spaces & compliance governance | ~$25M-$50M Valuation |
 | **ThinkData Works** | Proprietary SaaS | Managed Cloud / Hybrid | Data virtualization & catalog-to-commerce | ~$15M-$25M Valuation |
-| **CKAN** | Open Source (AGPL-3.0) | Self-Hosted / K8s | Enterprise catalog & public data portal | 5,100+ GitHub Stars |
-| **Delta Sharing** | Open Source (Apache-2.0) | Cross-Cloud / Self-Hosted | Universal open protocol for zero-copy sharing | 960+ GitHub Stars |
-| **X-Road** | Open Source (MIT) | Self-Hosted / Distributed | Secure distributed data interchange layer | 870+ GitHub Stars |
-| **Magda** | Open Source (Apache-2.0) | Cloud-Native / K8s | Federated metadata catalog & access policies | 600+ GitHub Stars |
-| **Eclipse EDC** | Open Source (Apache-2.0) | Self-Hosted / Multi-Cloud | Gaia-X / IDS sovereign dataspace connector | 420+ GitHub Stars |
-| **dataall** | Open Source (Apache-2.0) | AWS Cloud | AWS Data Mesh marketplace & governance | 250+ GitHub Stars |
-| **Ocean Market** | Open Source (Apache-2.0) | Decentralized / Web3 | Privacy-preserving compute-to-data exchange | 220+ GitHub Stars |
-| **FIWARE DSC** | Open Source (Apache-2.0) | Docker / Microservices | Smart-city & industrial data spaces | 60+ GitHub Stars |
-| **Gen3** | Open Source (Apache-2.0) | Kubernetes / Cloud | Biomedical & genomic research data commons | 40+ GitHub Stars |
+| **CKAN** | Open Source (AGPL-3.0) | Self-Hosted / K8s | Enterprise catalog & public data portal | 5,100+ GitHub_Stars |
+| **Delta Sharing** | Open Source (Apache-2.0) | Cross-Cloud / Self-Hosted | Universal open protocol for zero-copy sharing | 960+ GitHub_Stars |
+| **X-Road** | Open Source (MIT) | Self-Hosted / Distributed | Secure distributed data interchange layer | 870+ GitHub_Stars |
+| **Magda** | Open Source (Apache-2.0) | Cloud-Native / K8s | Federated metadata catalog & access policies | 600+ GitHub_Stars |
+| **Eclipse EDC** | Open Source (Apache-2.0) | Self-Hosted / Multi-Cloud | Gaia-X / IDS sovereign dataspace connector | 420+ GitHub_Stars |
+| **dataall** | Open Source (Apache-2.0) | AWS Cloud | AWS Data Mesh marketplace & governance | 250+ GitHub_Stars |
+| **Ocean Market** | Open Source (Apache-2.0) | Decentralized / Web3 | Privacy-preserving compute-to-data exchange | 220+ GitHub_Stars |
+| **FIWARE DSC** | Open Source (Apache-2.0) | Docker / Microservices | Smart-city & industrial data spaces | 60+ GitHub_Stars |
+| **Gen3** | Open Source (Apache-2.0) | Kubernetes / Cloud | Biomedical & genomic research data commons | 40+ GitHub_Stars |
 | **UDAM** | Open Source (MIT) | Self-Hosted / Docker | Turnkey Stripe-powered data API marketplace | Active Open-Source Repo |
 
 ---
