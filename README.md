@@ -81,7 +81,7 @@ Commercial, cloud-hosted Enterprise Private Data Exchange platforms sorted desce
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven data exchange layers, federated data spaces, and collaboration platforms. Ranked in descending order by GitHub Stars_Count.
+Self-hosted, community-driven data exchange layers, federated data spaces, and collaboration platforms. Ranked in descending order by GitHub_Stars_Count.
 
 | Project | ⭐ GitHub_Stars | 🛠️ Stack & License | 💡 Key Highlights | 🎯 Best For |
 |---|---|---|---|---|
